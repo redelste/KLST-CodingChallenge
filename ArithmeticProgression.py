@@ -1,4 +1,10 @@
-
+#  Assumptions: 
+#   - The input array is of length 5.
+#   - The contents of the array is comprised of integers
+#  Complexity:
+#   - The complexity of this is O(n). The usage of if-statements
+#   - provides a negligible amount of computation time hense O(n)
+    
 
 def ap(ar):
     # Diff1: A variable to store the difference between the 
